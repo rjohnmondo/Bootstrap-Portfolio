@@ -1,0 +1,22 @@
+.masthead {
+		background-color:#999;
+		font-size:30px;
+}
+
+p {
+	border-top:10px;
+}
+
+nav a {
+	color:#999;
+	text-decoration: none;
+	margin-left:15px;
+	display:inline-block;
+	border-left: 1px solid #efefef;
+	padding-left:15px;
+	line-height:18px;
+}
+
+.container {
+	background-image: url(cardinals.jpg);
+}
