@@ -1,0 +1,71 @@
+*.main-body {
+	margin:20px;
+	
+} 
+
+header {
+	font-size:30px;
+	color:red;
+	background-color:#67D7FC;
+	margin-bottom:20px;
+	text-align:center;
+}
+
+nav a {
+	margin-top:20px;
+	font-size:20px;
+	color:red;
+	text-align:center;
+	padding:10px;
+}
+
+.auth-image {
+	float:left;
+	margin-top:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+}
+
+.aboutme {
+	background-color:grey;
+}
+
+.aboutme p {
+	text-indent:25px;
+	font-size:16px;
+	line-height: 32px;
+	margin:20px;
+	color:white;
+} 
+
+.connect {
+	text-align:center;	}
+
+.connect h2 {
+	text-align:center;
+}
+
+footer {
+	border-top:10px;
+	border-color:#ebebeb;
+	border-style:solid;
+	text-align:center;
+	font-size:12px;
+	background-color:black;
+	padding:20px;
+}
+
+/* Background image set here  */
+/* body {
+	background-image: url(../images/background.png);
+} */
+
+.container {
+	
+}
+
+.navlinks {
+	color:black;
+	text-align:center;
+}
