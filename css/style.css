@@ -67,7 +67,7 @@ nav a {
 
 .aboutme {
 	margin-top:20px;
-	background-color:#f5f5f5;
+	 /* background-color:#f5f5f5; */
 	
 }
 
@@ -82,7 +82,7 @@ nav a {
 
 .connect {
 	text-align:center;
-	background-color:#f5f5f5;
+	/* background-color:#f5f5f5; */
 	padding:10px;
 	
 	margin-top:20px;
@@ -125,11 +125,12 @@ body {
 
 .work {
 	
-	 /* width: 274px; */
+	width: 274px; 
 	overflow: auto;
 	position:relative;
 	float: left;
-	margin:20px 0 25px;
+	margin:25px 0 25px 25px;
+
 }
 
 .work:nth-child(even) {
@@ -156,9 +157,9 @@ body {
 	font-weight: 300;
 }
 	
-.work:nth-child(even) {
+/* .work:nth-child(even) {
 	margin-right:40px;
-}
+} */
 
 .work img {
 	width:100%; 
